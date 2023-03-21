@@ -13,7 +13,7 @@ function VideoPlayer() {
          <div className="video-container">
          <iframe class="yt-iframe"  src={`https://www.youtube.com/embed/${videoID}`} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-        <h1 className="text-center">Notepad</h1>
+        {/* <h1 className="text-center">Notepad</h1> */}
        
         </div>
     )

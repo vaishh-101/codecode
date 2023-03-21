@@ -44,7 +44,7 @@ function Home() {
     </div>
          <div className="title-container">
     
-           <h1 className="text-center">Coding Tube </h1>
+           <h1 className="text-center">CodeCode </h1>
           </div>
           
           <div>
